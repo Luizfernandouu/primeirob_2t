@@ -1,0 +1,24 @@
+body{
+  background: lightblue
+}
+h1{
+  text-align: center;
+}
+.caixal {
+position: relative;
+  background: red;
+  width: 200px;
+  height: 200px;
+  color: #FFFFFF;
+  right: 0%;
+}
+.caixal2 {
+  position: relative;
+    background: blue;
+    width: 200px;
+    height: 200px;
+    color: #FFFFFF;
+    left: 0%;
+    top: 50%;
+  }
+}
